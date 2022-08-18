@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lysokheng
-- 👀 I’m interested in Video
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web or App development
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Flutter development
 - 📫 How to reach me Facebook: Lysokheng Huot, Gmail: lysokheng.huot@gmail.com
 
 <!---
