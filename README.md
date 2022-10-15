@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @lysokheng
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter development
-- 📫 How to reach me Facebook: Lysokheng Huot, Gmail: lysokheng.huot@gmail.com
+# Hi, I’m LySokHeng 👋 
 
-<!---
-lysokheng/lysokheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Currently learning Flutter and Laravel.
+- 🌱 Learning anything I can get my head on!
+- 👬 Always looking to collaborate 
+- 💬 Ask me about all thing Flutter
+- 📫 How to reach me Facebook: Lysokheng Huot | Gmail: lysokheng.huot@gmail.com | Telegram: +85570832161
