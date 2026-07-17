@@ -1,6 +1,6 @@
 # Hi, I’m Huot Lysokheng
 
-Senior Software Engineer & Mobile Tech Lead based in Phnom Penh, Cambodia. I specialize in building high-performance, cross-platform mobile ecosystems, scalable real-time systems, and production-ready AI integrations.
+Software Engineer & Mobile Tech Lead based in Phnom Penh, Cambodia. I specialize in building high-performance, cross-platform mobile ecosystems, scalable real-time systems, and production-ready AI integrations.
 
 ---
 
